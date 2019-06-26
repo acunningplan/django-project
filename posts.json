@@ -1,0 +1,43 @@
+[
+  
+  {
+    "title": "I hate shopping",
+    "content": "My girlfriend loves it though (sigh)",
+    "user_id": 2
+  },
+  {
+    "title": "Today's a great day!",
+    "content": "I'm feeling quite...productive",
+    "user_id": 1
+  },
+  {
+    "title": "I've lost my job!",
+    "content": "I didn't do nothin'!",
+    "user_id": 2
+  },
+  {
+    "title": "I passed my test!",
+    "content": "It was a stroll in the park.",
+    "user_id": 1
+  },
+  {
+    "title": "Meet my new dog!",
+    "content": "His name is Harry. Sit!",
+    "user_id": 1
+  },
+  {
+    "title": "Conference Day 1",
+    "content": "I met some talented people. I can use some advice from them.",
+    "user_id": 2
+  },
+  {
+    "title": "Should I delete my Facebook account?",
+    "content": "It's a waste of time, isn't it?",
+    "user_id": 1
+  },
+  {
+    "title": "Conference Day 2",
+    "content": "Well, today's talks bored the heck out of me.",
+    "user_id": 2
+  }
+]
