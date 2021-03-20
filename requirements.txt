@@ -9,7 +9,7 @@ django-crispy-forms==1.7.0
 django-storages==1.7.1
 docutils==0.14
 idna==2.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 MarkupSafe==1.1.1
 olefile==0.46
